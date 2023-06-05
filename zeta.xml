@@ -3,4 +3,5 @@
   <project path="device/xiaomi/vayu" name="chaldeaprjkt/device_xiaomi_vayu" remote="github" revision="13-dudu" />
   <project path="vendor/xiaomi/vayu" name="chaldeaprjkt/vendor_xiaomi_vayu" remote="github" revision="13-dudu" />
   <project path="device/xiaomi/vayu-kernel" name="aLnProject/device_xiaomi_vayu-kernel" remote="github" revision="main" />
+  <project path="vendor/xiaomi/miuicamera" name="BiancaProject/vendor_xiaomi_miuicamera" remote="gitlab" revision="leica" />
 </manifest>
